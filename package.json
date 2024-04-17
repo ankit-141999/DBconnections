@@ -1,0 +1,17 @@
+{
+  "name": "dbconnections",
+  "version": "1.0.0",
+  "description": "Connect to a database MySql and MongoDb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ankit Ambekar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mysql": "^2.18.1"
+  }
+}
